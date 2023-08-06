@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi my name is "Valia". I come from Athens, Greece. 
+Hi my name is "Valia". I come from Athens, Greece.
